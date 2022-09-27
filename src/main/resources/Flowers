@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Flowers xmlns:xsi ="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation ="src/main/resources/FlowersScheme.xsd">
+
+    <Flower name="Rose" origin="Ukraine">
+
+        <VisualParams>
+            <Color>Red</Color>
+            <LeafColor>Green</LeafColor>
+            <Size>Large</Size>
+        </VisualParams>
+
+        <GrowingTips>
+            <Temp>20C</Temp>
+            <Light>true</Light>
+        </GrowingTips>
+
+        <Multiplying>Seeds</Multiplying>
+        <Soil>Sand</Soil>
+
+    </Flower>
+
+    <Flower name="Daisy" origin="Ukraine">
+
+        <VisualParams>
+            <Color>White</Color>
+            <LeafColor>Green</LeafColor>
+            <Size>Medium</Size>
+        </VisualParams>
+
+        <GrowingTips>
+            <Temp>25C</Temp>
+            <Light>true</Light>
+        </GrowingTips>
+
+        <Multiplying>Seeds</Multiplying>
+        <Soil>Sand</Soil>
+
+    </Flower>
+
+</Flowers>
+
